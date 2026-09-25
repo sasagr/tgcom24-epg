@@ -5,102 +5,6 @@
     <display-name>TGCOM24</display-name>
     <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/tgcom24-it.png" />
   </channel>
-  <programme start="20260924000000 +0200" stop="20260924001800 +0200" channel="TGCOM24.it">
-    <title lang="it">Sport mediaset la giornata</title>
-  </programme>
-  <programme start="20260924001800 +0200" stop="20260924004300 +0200" channel="TGCOM24.it">
-    <title lang="it">Rassegna stampa</title>
-  </programme>
-  <programme start="20260924004300 +0200" stop="20260924060000 +0200" channel="TGCOM24.it">
-    <title lang="it">Rullo notte</title>
-  </programme>
-  <programme start="20260924060000 +0200" stop="20260924080000 +0200" channel="TGCOM24.it">
-    <title lang="it">Tg5 prima pagina</title>
-  </programme>
-  <programme start="20260924080000 +0200" stop="20260924084200 +0200" channel="TGCOM24.it">
-    <title lang="it">Tg5</title>
-  </programme>
-  <programme start="20260924084200 +0200" stop="20260924090100 +0200" channel="TGCOM24.it">
-    <title lang="it">News e rassegna stampa</title>
-  </programme>
-  <programme start="20260924090100 +0200" stop="20260924093000 +0200" channel="TGCOM24.it">
-    <title lang="it">Tg ore 9</title>
-  </programme>
-  <programme start="20260924093000 +0200" stop="20260924100000 +0200" channel="TGCOM24.it">
-    <title lang="it">Direttissima</title>
-  </programme>
-  <programme start="20260924100000 +0200" stop="20260924103000 +0200" channel="TGCOM24.it">
-    <title lang="it">Tg ore 10</title>
-  </programme>
-  <programme start="20260924103000 +0200" stop="20260924110100 +0200" channel="TGCOM24.it">
-    <title lang="it">Direttissima</title>
-  </programme>
-  <programme start="20260924110100 +0200" stop="20260924112800 +0200" channel="TGCOM24.it">
-    <title lang="it">Tg ore 11</title>
-  </programme>
-  <programme start="20260924112800 +0200" stop="20260924120100 +0200" channel="TGCOM24.it">
-    <title lang="it">Direttissima</title>
-  </programme>
-  <programme start="20260924120100 +0200" stop="20260924122500 +0200" channel="TGCOM24.it">
-    <title lang="it">Tg4</title>
-  </programme>
-  <programme start="20260924122500 +0200" stop="20260924125800 +0200" channel="TGCOM24.it">
-    <title lang="it">Fatti &amp; misfatti</title>
-  </programme>
-  <programme start="20260924125800 +0200" stop="20260924133300 +0200" channel="TGCOM24.it">
-    <title lang="it">Tg5</title>
-  </programme>
-  <programme start="20260924133300 +0200" stop="20260924141000 +0200" channel="TGCOM24.it">
-    <title lang="it">Tg</title>
-  </programme>
-  <programme start="20260924140000 +0200" stop="20260924143200 +0200" channel="TGCOM24.it">
-    <title lang="it">Sport mediaset</title>
-  </programme>
-  <programme start="20260924143200 +0200" stop="20260924145000 +0200" channel="TGCOM24.it">
-    <title lang="it">Tg</title>
-  </programme>
-  <programme start="20260924145000 +0200" stop="20260924150000 +0200" channel="TGCOM24.it">
-    <title lang="it">Tgeconomy</title>
-  </programme>
-  <programme start="20260924150000 +0200" stop="20260924151100 +0200" channel="TGCOM24.it">
-    <title lang="it">Dentro i fatti</title>
-  </programme>
-  <programme start="20260924160100 +0200" stop="20260924163400 +0200" channel="TGCOM24.it">
-    <title lang="it">Tg</title>
-  </programme>
-  <programme start="20260924163400 +0200" stop="20260924170100 +0200" channel="TGCOM24.it">
-    <title lang="it">Dentro i fatti</title>
-  </programme>
-  <programme start="20260924170100 +0200" stop="20260924173100 +0200" channel="TGCOM24.it">
-    <title lang="it">Tg</title>
-  </programme>
-  <programme start="20260924173100 +0200" stop="20260924180100 +0200" channel="TGCOM24.it">
-    <title lang="it">Tg</title>
-  </programme>
-  <programme start="20260924180100 +0200" stop="20260924182800 +0200" channel="TGCOM24.it">
-    <title lang="it">Tg ore 18</title>
-  </programme>
-  <programme start="20260924182800 +0200" stop="20260924185800 +0200" channel="TGCOM24.it">
-    <title lang="it">Tg</title>
-  </programme>
-  <programme start="20260924185800 +0200" stop="20260924193800 +0200" channel="TGCOM24.it">
-    <title lang="it">Tg4</title>
-  </programme>
-  <programme start="20260924193800 +0200" stop="20260924200700 +0200" channel="TGCOM24.it">
-    <title lang="it">Sport mediaset</title>
-  </programme>
-  <programme start="20260924195700 +0200" stop="20260924203300 +0200" channel="TGCOM24.it">
-    <title lang="it">Tg5</title>
-  </programme>
-  <programme start="20260924203300 +0200" stop="20260924205800 +0200" channel="TGCOM24.it">
-    <title lang="it">Fatti e misfatti replica</title>
-  </programme>
-  <programme start="20260924205800 +0200" stop="20260924213800 +0200" channel="TGCOM24.it">
-    <title lang="it">Tg5 replica</title>
-  </programme>
-  <programme start="20260924213800 +0200" stop="20260925000000 +0200" channel="TGCOM24.it">
-    <title lang="it">News e rassegna stampa</title>
-  </programme>
   <programme start="20260925000000 +0200" stop="20260925001800 +0200" channel="TGCOM24.it">
     <title lang="it">Sport mediaset la giornata</title>
   </programme>
@@ -675,6 +579,102 @@
     <title lang="it">Tg5 replica</title>
   </programme>
   <programme start="20260930213800 +0200" stop="20261001000000 +0200" channel="TGCOM24.it">
+    <title lang="it">News e rassegna stampa</title>
+  </programme>
+  <programme start="20261001000000 +0200" stop="20261001001800 +0200" channel="TGCOM24.it">
+    <title lang="it">Sport mediaset la giornata</title>
+  </programme>
+  <programme start="20261001001800 +0200" stop="20261001004300 +0200" channel="TGCOM24.it">
+    <title lang="it">Rassegna stampa</title>
+  </programme>
+  <programme start="20261001004300 +0200" stop="20261001060000 +0200" channel="TGCOM24.it">
+    <title lang="it">Rullo notte</title>
+  </programme>
+  <programme start="20261001060000 +0200" stop="20261001080000 +0200" channel="TGCOM24.it">
+    <title lang="it">Tg5 prima pagina</title>
+  </programme>
+  <programme start="20261001080000 +0200" stop="20261001084200 +0200" channel="TGCOM24.it">
+    <title lang="it">Tg5</title>
+  </programme>
+  <programme start="20261001084200 +0200" stop="20261001090100 +0200" channel="TGCOM24.it">
+    <title lang="it">News e rassegna stampa</title>
+  </programme>
+  <programme start="20261001090100 +0200" stop="20261001093000 +0200" channel="TGCOM24.it">
+    <title lang="it">Tg ore 9</title>
+  </programme>
+  <programme start="20261001093000 +0200" stop="20261001100000 +0200" channel="TGCOM24.it">
+    <title lang="it">Direttissima</title>
+  </programme>
+  <programme start="20261001100000 +0200" stop="20261001103000 +0200" channel="TGCOM24.it">
+    <title lang="it">Tg ore 10</title>
+  </programme>
+  <programme start="20261001103000 +0200" stop="20261001110100 +0200" channel="TGCOM24.it">
+    <title lang="it">Direttissima</title>
+  </programme>
+  <programme start="20261001110100 +0200" stop="20261001112800 +0200" channel="TGCOM24.it">
+    <title lang="it">Tg ore 11</title>
+  </programme>
+  <programme start="20261001112800 +0200" stop="20261001120100 +0200" channel="TGCOM24.it">
+    <title lang="it">Direttissima</title>
+  </programme>
+  <programme start="20261001120100 +0200" stop="20261001122500 +0200" channel="TGCOM24.it">
+    <title lang="it">Tg4</title>
+  </programme>
+  <programme start="20261001122500 +0200" stop="20261001125800 +0200" channel="TGCOM24.it">
+    <title lang="it">Fatti &amp; misfatti</title>
+  </programme>
+  <programme start="20261001125800 +0200" stop="20261001133300 +0200" channel="TGCOM24.it">
+    <title lang="it">Tg5</title>
+  </programme>
+  <programme start="20261001133300 +0200" stop="20261001141000 +0200" channel="TGCOM24.it">
+    <title lang="it">Tg</title>
+  </programme>
+  <programme start="20261001140000 +0200" stop="20261001143200 +0200" channel="TGCOM24.it">
+    <title lang="it">Sport mediaset</title>
+  </programme>
+  <programme start="20261001143200 +0200" stop="20261001145000 +0200" channel="TGCOM24.it">
+    <title lang="it">Tg</title>
+  </programme>
+  <programme start="20261001145000 +0200" stop="20261001150000 +0200" channel="TGCOM24.it">
+    <title lang="it">Tgeconomy</title>
+  </programme>
+  <programme start="20261001150000 +0200" stop="20261001151100 +0200" channel="TGCOM24.it">
+    <title lang="it">Dentro i fatti</title>
+  </programme>
+  <programme start="20261001160100 +0200" stop="20261001163400 +0200" channel="TGCOM24.it">
+    <title lang="it">Tg</title>
+  </programme>
+  <programme start="20261001163400 +0200" stop="20261001170100 +0200" channel="TGCOM24.it">
+    <title lang="it">Dentro i fatti</title>
+  </programme>
+  <programme start="20261001170100 +0200" stop="20261001173100 +0200" channel="TGCOM24.it">
+    <title lang="it">Tg</title>
+  </programme>
+  <programme start="20261001173100 +0200" stop="20261001180100 +0200" channel="TGCOM24.it">
+    <title lang="it">Tg</title>
+  </programme>
+  <programme start="20261001180100 +0200" stop="20261001182800 +0200" channel="TGCOM24.it">
+    <title lang="it">Tg ore 18</title>
+  </programme>
+  <programme start="20261001182800 +0200" stop="20261001185800 +0200" channel="TGCOM24.it">
+    <title lang="it">Tg</title>
+  </programme>
+  <programme start="20261001185800 +0200" stop="20261001193800 +0200" channel="TGCOM24.it">
+    <title lang="it">Tg4</title>
+  </programme>
+  <programme start="20261001193800 +0200" stop="20261001200700 +0200" channel="TGCOM24.it">
+    <title lang="it">Sport mediaset</title>
+  </programme>
+  <programme start="20261001195700 +0200" stop="20261001203300 +0200" channel="TGCOM24.it">
+    <title lang="it">Tg5</title>
+  </programme>
+  <programme start="20261001203300 +0200" stop="20261001205800 +0200" channel="TGCOM24.it">
+    <title lang="it">Fatti e misfatti replica</title>
+  </programme>
+  <programme start="20261001205800 +0200" stop="20261001213800 +0200" channel="TGCOM24.it">
+    <title lang="it">Tg5 replica</title>
+  </programme>
+  <programme start="20261001213800 +0200" stop="20261002000000 +0200" channel="TGCOM24.it">
     <title lang="it">News e rassegna stampa</title>
   </programme>
 </tv>
